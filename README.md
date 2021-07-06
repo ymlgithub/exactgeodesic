@@ -10,5 +10,5 @@ Danil Kirsanov's ExactGeodesic (http://code.google.com/p/geodesic/) with tweaks 
 
 
 ```shell
-g++ .\example0.cpp -o geodesic.exe
+g++ -static .\example0.cpp -o geodesic.exe
 ```
